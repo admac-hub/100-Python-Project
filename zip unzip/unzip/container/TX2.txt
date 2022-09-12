@@ -1,0 +1,17 @@
+If shop flor complains about not being able to scan or print labels 
+
+check what profile they are using and where that profile is set to print in NBP NOW 
+   if it`s set correctly and they not printing then do:
+
+1- check the scanner conectivity
+   a) open a tex file and scan a barcode if prints values then the scanner is good 
+   b) do ctl + atl + t   to open the terminal and ping the label printer if ( you will find it on the label printer screen  is 10.1.5. ) it shows up every 5 sec 
+     if comunicaiton fails: 
+
+try to reboot first : 
+ the comand to use is 
+
+:~$   sudo reboot now    
+
+
+      

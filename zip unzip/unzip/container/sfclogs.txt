@@ -1,0 +1,18 @@
+2022-09-06 07:54:33, Info                  CSI    00000006 [SR] Verifying 1 components
+2022-09-06 07:54:33, Info                  CSI    00000007 [SR] Beginning Verify and Repair transaction
+2022-09-06 07:54:33, Info                  CSI    00000008 [SR] Verify complete
+2022-09-06 07:54:33, Info                  CSI    00000009 [SR] Verifying 1 components
+2022-09-06 07:54:33, Info                  CSI    0000000a [SR] Beginning Verify and Repair transaction
+2022-09-06 07:54:33, Info                  CSI    0000000b [SR] Verify complete
+2022-09-06 07:54:33, Info                  CSI    0000000c [SR] Verifying 1 components
+2022-09-06 07:54:33, Info                  CSI    0000000d [SR] Beginning Verify and Repair transaction
+2022-09-06 07:54:33, Info                  CSI    0000000e [SR] Verify complete
+2022-09-06 07:54:33, Info                  CSI    0000000f [SR] Verifying 1 components
+2022-09-06 07:54:33, Info                  CSI    00000010 [SR] Beginning Verify and Repair transaction
+2022-09-06 07:54:33, Info                  CSI    00000011 [SR] Verify complete
+2022-09-06 07:54:33, Info                  CSI    00000012 [SR] Verifying 1 components
+2022-09-06 07:54:33, Info                  CSI    00000013 [SR] Beginning Verify and Repair transaction
+2022-09-06 07:54:33, Info                  CSI    00000014 [SR] Verify complete
+2022-09-06 07:54:33, Info                  CSI    00000015 [SR] Verifying 1 components
+2022-09-06 07:54:33, Info                  CSI    00000016 [SR] Beginning Verify and Repair transaction
+2022-09-06 07:54:33, Info                  CSI    00000017 [SR] Verify complete
