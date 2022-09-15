@@ -7,7 +7,7 @@ DOMTree = xml.dom.minidom.parse("songs.xml") #Opening the XML document
 genre=DOMTree.documentElement
 if genre.hasAttribute('catalogue'):
    print(f'Root: {genre.getAttribute("catalogue")}')
-Root: Pop
+Root: Pow
 songs=genre.getElementsByTagName('song') #Get all songs in the genre Pop
 for song in songs: #Print each song’s details
     print('Song:')
