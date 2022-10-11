@@ -15,4 +15,5 @@ Most of project come from : Complete Python Developer in 2022: Zero to Mastery
 - WTForms
 - Data Science
 - Pandas
+- XML parsing
 
