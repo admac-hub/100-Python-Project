@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<friedman>
+  <header>
+    <source-system>NBP</source-system>
+  </header>
+  <header>
+    <order-request>
+      <ship-to-customer>
+        <number>CNGNM000001</number>
+        <division>01</division>
+        <email>CNGNM000001@nbpmail.com</email>
+        <password>LETMEIN</password>
+      </ship-to-customer>
+      <ship-to-purchase-order-number>15950000_001_2</ship-to-purchase-order-number>
+      <sold-to-purchase-order-number/>
+      <required-date>2022-10-11</required-date>
+      <order-date>2022-10-11</order-date>
+      <item-groups>
+        <item-group>
+          <items type="array">
+            <item>
+              <option>
+                <name>Sidelite Texture</name>
+                <value>Smooth Steel</value>
+              </option>
+              <option>
+                <name>Sidelite Glass Option</name>
+                <value>Clear Glass </value>
+              </option>
+              <option>
+                <name>Sidelite Style</name>
+                <value>4</value>
+              </option>
+              <option>
+                <name>Door Width</name>
+                <value>1'-4" </value>
+              </option>
+              <option>
+                <name>Door Height</name>
+                <value>6'-8" </value>
+              </option>
+              <option>
+                <name>Sidelite</name>
+                <value>1169</value>
+              </option>
+              <option>
+                <name>Door Slab Finish Color Exterior</name>
+                <value>172 Windsor Castle </value>
+              </option>
+              <option>
+                <name>Door Slab Finish Color Interior</name>
+                <value>120 Classic White </value>
+              </option>
+              <option>
+                <name>Sidelite Slab Finish Color Exterior</name>
+                <value>172 Windsor Castle </value>
+              </option>
+              <option>
+                <name>Sidelite Slab Finish Color Interior</name>
+                <value>120 Classic White </value>
+              </option>
+              <option>
+                <name>Door Configuration</name>
+                <value>Single with Sidelights</value>
+              </option>
+              <option>
+                <name>Unit Type</name>
+                <value>Assembled Unit</value>
+              </option>
+              <option>
+                <name>Door Width</name>
+                <value>3'-6" </value>
+              </option>
+              <option>
+                <name>Door Height</name>
+                <value>6'-8" </value>
+              </option>
+              <option>
+                <name>Door Texture</name>
+                <value>Smooth Steel</value>
+              </option>
+              <option>
+                <name>Door Style</name>
+                <value>60</value>
+              </option>
+              <option>
+                <name>Base Price</name>
+                <value>1084</value>
+              </option>
+              <option>
+                <name>Number of Sidelites</name>
+                <value>1 </value>
+              </option>
+              <option>
+                <name>Sidelite Side</name>
+                <value>Hinge </value>
+              </option>
+              <option>
+                <name>Sidelite PreFinish</name>
+                <value>290</value>
+              </option>
+              <option>
+                <name>Door PreFinish</name>
+                <value>325</value>
+              </option>
+              <option>
+                <name>Hinging</name>
+                <value>Hinge Left/Right Hand Inswing</value>
+              </option>
+              <option>
+                <name>Hinge Type and Finish</name>
+                <value>One Spring Hinge Antique Brass (US5)</value>
+              </option>
+              <option>
+                <name>One Spring Hinge</name>
+                <value>23</value>
+              </option>
+              <option>
+                <name>Sill Type</name>
+                <value>Articulating Champagne</value>
+              </option>
+              <option>
+                <name>Weatherstrip and Sweep Color</name>
+                <value>Beige Q-Lon W/S and Sweep</value>
+              </option>
+              <option>
+                <name>DeadBolt Bore</name>
+                <value>39</value>
+              </option>
+              <option>
+                <name>Bore and Backset</name>
+                <value>2-3/4" Backset - 1-5/8" Deadbolt Bore</value>
+              </option>
+              <option>
+                <name>Jamb and Sill</name>
+                <value>Jamb and Sill</value>
+              </option>
+              <option>
+                <name>Jamb Type</name>
+                <value>Dura Frame Primed </value>
+              </option>
+              <option>
+                <name>Jamb Depth</name>
+                <value>4-9/16" </value>
+              </option>
+              <option>
+                <name>Jamb Prefinish</name>
+                <value>Paint Interior Surface On Jamb </value>
+              </option>
+              <option>
+                <name>Jamb Prefinish Interior</name>
+                <value>193 Soulful Blue </value>
+              </option>
+              <option>
+                <name>Jamb Reinforcement Plate</name>
+                <value>Jamb Reinforcement Plate Provided as a Standard.</value>
+              </option>
+              <option>
+                <name>Clad/Brickmold</name>
+                <value>Primed Wood Brickmold</value>
+              </option>
+              <option>
+                <name>Door Opening Specifications (Width x Height)</name>
+                <value>Door Opening Specifications (Width x Height)</value>
+              </option>
+              <option>
+                <name>Frame Size/Unit Dimension</name>
+                <value>61" x 81 3/4"</value>
+              </option>
+              <option>
+                <name>RO Size</name>
+                <value>62" x 82"</value>
+              </option>
+              <option>
+                <name>Brickmold/Clad Dimension</name>
+                <value>63 1/2" x 83"</value>
+              </option>
+              <option>
+                <name>&lt;hr&gt;</name>
+                <value>&lt;hr&gt;</value>
+              </option>
+              <option>
+                <name>&lt;b&gt;&lt;font color=green&gt;SubTotal&lt;/font&gt;&lt;/b&gt;</name>
+                <value>2930</value>
+              </option>
+            </item>
+          </items>
+        </item-group>
+      </item-groups>
+    </order-request>
+  </header>
+</friedman>
